@@ -51,6 +51,7 @@ An example usage ready to be copy-pasted for you to start learning how to use th
                    input_generator=random_bool_list,
                    tries=2)
 
-![alt tag](https://raw.githubusercontent.com/CAridorc/Plot-Benchmark/master/name.png)
+    
+![alt tag](https://raw.githubusercontent.com/CAridorc/Plot-Benchmark/master/count_ones_benchmark.png)
 
-![alt tag](https://raw.githubusercontent.com/CAridorc/Plot-Benchmark/master/name.png)
+![alt tag](https://raw.githubusercontent.com/CAridorc/Plot-Benchmark/master/pairs_benchmark.png)
