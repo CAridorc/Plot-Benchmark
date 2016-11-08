@@ -50,3 +50,7 @@ An example usage ready to be copy-pasted for you to start learning how to use th
                    range(1, 500, 1),
                    input_generator=random_bool_list,
                    tries=2)
+
+![alt tag](https://raw.githubusercontent.com/CAridorc/Plot-Benchmark/master/name.png)
+
+![alt tag](https://raw.githubusercontent.com/CAridorc/Plot-Benchmark/master/name.png)
